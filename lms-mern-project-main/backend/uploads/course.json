@@ -1,0 +1,119 @@
+[
+    {
+      "title": "Advanced JavaScript Concepts",
+      "description": "Learn modern JavaScript with advanced ES6+ features and best practices.",
+      "category": "Programming",
+      "thumbnail": {
+        "public_id": "thumbnail_js_01",
+        "secure_url": "https://th.bing.com/th/id/OIP.6VkG76S4X2VICOVsC5s6GAHaEK?rs=1&pid=ImgDetMain"
+      },
+      "lectures": [
+        {
+          "title": "Introduction to ES6",
+          "description": "Overview of ES6 and its new features.",
+          "lecture": {
+            "public_id": "lecture_js_01",
+            "secure_url": "https://youtu.be/NCwa_xi0Uuc"
+          }
+        },
+        {
+          "title": "Async JavaScript",
+          "description": "Understanding async/await and promises.",
+          "lecture": {
+            "public_id": "lecture_js_02",
+            "secure_url": "https://youtu.be/0Mp2kwE8xY0"
+          }
+        }
+      ],
+      "numberOfLectures": 12,
+      "createdBy": "Programming with Mosh"
+    },
+    {
+      "title": "Full Stack Web Development",
+      "description": "Master full stack development using MERN stack.",
+      "category": "Web Development",
+      "thumbnail": {
+        "public_id": "thumbnail_webdev_01",
+        "secure_url": "https://www.shutterstock.com/image-vector/full-stack-developer-programmer-who-260nw-2273927175.jpg"
+      },
+      "lectures": [
+        {
+          "title": "Introduction to MERN Stack",
+          "description": "Overview of MongoDB, Express, React, and Node.js.",
+          "lecture": {
+            "public_id": "lecture_webdev_01",
+            "secure_url": "https://youtu.be/nu_pCVPKzTk"
+          }
+        },
+        {
+          "title": "Building RESTful APIs",
+          "description": "Creating APIs using Node.js and Express.",
+          "lecture": {
+            "public_id": "lecture_webdev_02",
+            "secure_url": "https://youtu.be/WXsD0ZgxjRw"
+          }
+        }
+      ],
+      "numberOfLectures": 8,
+      "createdBy": "freecodecamp"
+    },
+    {
+      "title": "React Native Mobile Development",
+      "description": "Build mobile applications using React Native and Expo.",
+      "category": "Mobile Development",
+      "thumbnail": {
+        "public_id": "thumbnail_reactnative_01",
+        "secure_url": "https://img.freepik.com/premium-vector/react-native-mobile-apps-development-concept-with-modern-flat-style_566886-1220.jpg"
+      },
+      "lectures": [
+        {
+          "title": "Getting Started with React Native",
+          "description": "Introduction to React Native and setting up the environment.",
+          "lecture": {
+            "public_id": "lecture_reactnative_01",
+            "secure_url": "https://example.com/lecture_reactnative_01.mp4"
+          }
+        },
+        {
+          "title": "Building UI with React Native",
+          "description": "Creating responsive UI components using React Native.",
+          "lecture": {
+            "public_id": "lecture_reactnative_02",
+            "secure_url": "https://youtu.be/Hp9sTsiTZ_I"
+          }
+        }
+      ],
+      "numberOfLectures": 6,
+      "createdBy": "Dave Gray"
+    },
+    {
+      "title": "Python for Data Science",
+      "description": "Learn Python programming for data analysis and machine learning.",
+      "category": "Data Science",
+      "thumbnail": {
+        "public_id": "thumbnail_python_ds_01",
+        "secure_url": "https://blog.pwskills.com/wp-content/uploads/2023/06/1-01-1.jpg"
+      },
+      "lectures": [
+        {
+          "title": "Introduction to Python",
+          "description": "Basics of Python programming and syntax.",
+          "lecture": {
+            "public_id": "lecture_python_ds_01",
+            "secure_url": "https://youtu.be/eWRfhZUzrAc"
+          }
+        },
+        {
+          "title": "Data Analysis with Pandas",
+          "description": "Using Pandas for data manipulation and analysis.",
+          "lecture": {
+            "public_id": "lecture_python_ds_02",
+            "secure_url": "https://youtu.be/gtjxAH8uaP0"
+          }
+        }
+      ],
+      "numberOfLectures": 6,
+      "createdBy": "freecodecamp"
+    }
+  ]
+  
